@@ -1,7 +1,7 @@
 {
-  "name": "hyperterm-solarized-dark",
-  "version": "0.1.6",
-  "description": "Hyperterm theme using the dark Solarized colors",
+  "name": "hyperterm-almost-solarized-dark",
+  "version": "0.0.1",
+  "description": "Hyperterm theme using almost the dark Solarized colors",
   "main": "index.js",
   "keywords": [
     "hyperterm",
@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ghosh/hyperterm-solarized-dark.git"
+    "url": "git+https://github.com/jamox/hyperterm-almost-solarized-dark.git"
   },
-  "author": "Indrashish Ghosh",
+  "author": "Jarmo Isotalo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ghosh/hyperterm-solarized-dark/issues"
+    "url": "https://github.com/jamox/hyperterm-almost-solarized-dark/issues"
   },
-  "homepage": "https://github.com/Ghosh/hyperterm-solarized-dark#readme"
+  "homepage": "https://github.com/jamox/hyperterm-almost-solarized-dark#readme"
 }

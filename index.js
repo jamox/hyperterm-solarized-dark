@@ -1,5 +1,5 @@
-const backgroundColor = '#002b36'
-const foregroundColor = '#839496'
+const backgroundColor = '#252525'
+const foregroundColor = '#ffffff'
 const cursorColor = 'rgba(181, 137, 0, 0.6)'
 const borderColor = 'rgba(38, 139, 210, 0.3)'
 const activeTabBorderColor = '#2aa198' // yellow
@@ -51,12 +51,12 @@ exports.decorateConfig = config => {
     css: `
       ${config.css || ''}
       * {
-      	-webkit-font-feature-settings: "liga" on, "calt" on, "dlig" on !important;
-      	text-rendering: optimizeLegibility !important;
+-webkit-font-feature-settings: "liga" on, "calt" on, "dlig" on !important;
+text-rendering: optimizeLegibility !important;
         font-weight: 500;
       }
       .cursor-node {
-      	width: .325rem !important;
+width: .325rem !important;
       }
       .tab_tab {
         color: ${foregroundColor} !important;
